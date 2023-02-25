@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects.
 - ✨ Link to my latest project : [Banking App](https://omkaushik71.github.io/Banking-App/)
 - 🎆 My other projects :
+  -  [Creative Section Shapes](https://omkaushik71.github.io/Creative-Section-Shapes/)
   -  [SVG Animations](https://omkaushik71.github.io/Simple-SVG-Animations/)  
   -  [Admin Dashboard](https://omkaushik71.github.io/Admin-Dashboard/)
   -  [Instagram Sign Up Page](https://omkaushik71.github.io/Sign-Up-Page/)
