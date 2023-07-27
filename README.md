@@ -2,8 +2,9 @@
 - 👀 I’m interested in becoming a web3 developer.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development projects.
-- ✨ Link to my latest project : [Restaurant Page](https://omkaushik71.github.io/Restaurant-Page/) 
+- ✨ Link to my latest project : [GIF Generator](https://omkaushik71.github.io/GIF-Generator/) 
 - 🎆 My other projects :
+  - [Restaurant Page](https://omkaushik71.github.io/Restaurant-Page/) 
   -  [Tic Tac Toe](https://omkaushik71.github.io/Tic-Tac-Toe/)
   - [Library App](https://omkaushik71.github.io/Library-App/)
   -  [Banking App](https://omkaushik71.github.io/Banking-App/)
