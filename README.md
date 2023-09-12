@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmKaushik71
+- 👋 Hi, I’m Om Kaushik 
 - 👀 I’m interested in becoming a web3 developer.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development projects.
