@@ -2,8 +2,9 @@
 - 👀 I’m interested in becoming a web3 developer.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web development projects.
-- ✨ Link to my latest project : [Weather App](https://kaushikom.github.io/Weather-App/)  
+- ✨ Check out my selected projects from the pinned section below.
 - 🎆 My other projects :
+  -  [Weather App](https://kaushikom.github.io/Weather-App/)  
   - [GIF Generator](https://kaushikom.github.io/GIF-Generator/)
   - [Restaurant Page](https://kaushikom.github.io/Restaurant-Page/) 
   -  [Tic Tac Toe](https://kaushikom.github.io/Tic-Tac-Toe/)
