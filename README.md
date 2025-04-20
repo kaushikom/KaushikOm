@@ -1,26 +1,49 @@
-- 👋 Hi, I’m Om Kaushik 
-- 👀 I’m interested in becoming a web3 developer.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on web development projects.
-- ✨ Check out my selected projects from the pinned section below.
-- 🎆 My other projects :
-  -  [Weather App](https://kaushikom.github.io/Weather-App/)  
-  - [GIF Generator](https://kaushikom.github.io/GIF-Generator/)
-  - [Restaurant Page](https://kaushikom.github.io/Restaurant-Page/) 
-  -  [Tic Tac Toe](https://kaushikom.github.io/Tic-Tac-Toe/)
-  - [Library App](https://kaushikom.github.io/Library-App/)
-  -  [Banking App](https://kaushikom.github.io/Banking-App/)
-  -  [Creative Section Shapes](https://kaushikom.github.io/Creative-Section-Shapes/)
-  -  [SVG Animations](https://kaushikom.github.io/Simple-SVG-Animations/)  
-  -  [Admin Dashboard](https://kaushikom.github.io/Admin-Dashboard/)
-  -  [Instagram Sign Up Page](https://kaushikom.github.io/Sign-Up-Page/)
-  -  [Calculator](https://kaushikom.github.io/Calculator-Neumorphic/)
-  -  [Etch-A-Sketch](https://kaushikom.github.io/Etch-a-Sketch/) 
-  -  [Rock Paper Scissors](https://kaushikom.github.io/Rock-Paper-Scissors/) 
-  -  [Odin Sign Up Page](https://kaushikom.github.io/Odin-Sign-Up-Page/)
-- 🧩 Frontend Mentor Projects : 
-  - [QR code component](https://kaushikom.github.io/QR-Component/)
-<!---
-OmKaushik71/OmKaushik71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Om Kaushik
+
+🚀 Full Stack Developer | Problem Solver | Tech Enthusiast  
+📍 From Delhi, India  
+🧠 Always curious, always learning  
+🌱 Currently exploring AI-powered features in web and mobile apps
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Frontend:**  
+HTML · CSS · JavaScript · TypeScript · React.js · Redux Toolkit · Zustand · React Native · Expo · Capacitor · Tailwind CSS · Bootstrap · Material UI · Shadcn · Three.js · React Router
+
+**Backend:**  
+Node.js · Express.js · PHP · Python · Java · C · C++
+
+**Testing & Dev Tools:**  
+Jest · Selenium · Git · GitHub · Bash · Postman · Webpack
+
+**Database & Cloud:**  
+MongoDB · MySQL · PostgreSQL · AWS · Nginx
+
+**Others:**  
+Figma · JavaScript Libraries · Modular Architecture · REST APIs · Third-party integrations
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern  
+**Code Friday** | *Oct 2024 – Present*  
+- Developed RESTful APIs with secure auth and modular codebase  
+- Worked with MongoDB, Express.js, Node.js, PostgreSQL  
+- Integrated third-party APIs and microservices for enhanced functionality  
+
+### Backend Developer Intern  
+**DPI Infotech** | *Aug 2024 – Sep 2024*  
+- Built responsive web apps using JavaScript, AJAX, PHP, MySQL  
+- Handled both frontend and backend of a large e-commerce platform  
+- Created modern user interfaces with libraries and frameworks  
+
+---
+
+## 📫 Let's Connect
+- 📧 omkaushik1015@gmail.com
+
+---
+
