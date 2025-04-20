@@ -3,7 +3,6 @@
 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast  
 📍 From Delhi, India  
 🧠 Always curious, always learning  
-🌱 Currently exploring AI-powered features in web and mobile apps
 
 ---
 
