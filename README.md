@@ -34,7 +34,7 @@ Figma · JavaScript Libraries · Modular Architecture · REST APIs · Third-part
 - Integrated third-party APIs and microservices for enhanced functionality  
 
 ### Backend Developer Intern  
-**DPI Infotech** | *Aug 2024 – Sep 2024*  
+**DPI Infotech** | *Jun 2024 – Sep 2024*  
 - Built responsive web apps using JavaScript, AJAX, PHP, MySQL  
 - Handled both frontend and backend of a large e-commerce platform  
 - Created modern user interfaces with libraries and frameworks  
