@@ -14,7 +14,7 @@ HTML · CSS · JavaScript · TypeScript · React.js · Redux Toolkit · Zustand 
 **Backend:**  
 Supabase · Firebase · Node.js · Express.js · PHP · Python · Java · C · C++
 
-**AI & Automations:** 
+**AI & Automations:**   
 Bolt · Loveable · Make.com · n8n
 
 **Testing & Dev Tools:**  
