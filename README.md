@@ -12,13 +12,16 @@
 HTML · CSS · JavaScript · TypeScript · React.js · Redux Toolkit · Zustand · React Native · Expo · Capacitor · Tailwind CSS · Bootstrap · Material UI · Shadcn · Three.js · React Router
 
 **Backend:**  
-Node.js · Express.js · PHP · Python · Java · C · C++
+Supabase · Firebase · Node.js · Express.js · PHP · Python · Java · C · C++
+
+**AI & Automations:** 
+Bolt · Loveable · Make.com · n8n
 
 **Testing & Dev Tools:**  
 Jest · Selenium · Git · GitHub · Bash · Postman · Webpack
 
 **Database & Cloud:**  
-MongoDB · MySQL · PostgreSQL · AWS · Nginx
+MongoDB · Pinecone · MySQL · PostgreSQL · AWS · Nginx · DynamoDB · SQL Lite
 
 **Others:**  
 Figma · JavaScript Libraries · Modular Architecture · REST APIs · Third-party integrations
@@ -27,10 +30,11 @@ Figma · JavaScript Libraries · Modular Architecture · REST APIs · Third-part
 
 ## 💼 Experience
 
-### Full Stack Developer Intern  
+### Full Stack Developer   
 **Code Friday** | *Oct 2024 – Present*  
 - Developed RESTful APIs with secure auth and modular codebase  
-- Worked with MongoDB, Express.js, Node.js, PostgreSQL  
+- Worked with MongoDB, Express.js, Node.js, PostgreSQL
+- Worked on several AI first products and features
 - Integrated third-party APIs and microservices for enhanced functionality  
 
 ### Backend Developer Intern  
