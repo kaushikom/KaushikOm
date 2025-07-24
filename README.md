@@ -24,7 +24,7 @@ Jest · Selenium · Git · GitHub · Bash · Postman · Webpack
 MongoDB · Pinecone · MySQL · PostgreSQL · AWS · Nginx · DynamoDB · SQL Lite
 
 **Others:**  
-Figma · JavaScript Libraries · Modular Architecture · REST APIs · Third-party integrations
+Spline · Figma · JavaScript Libraries · Modular Architecture · REST APIs · Third-party integrations
 
 ---
 
