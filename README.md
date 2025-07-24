@@ -9,7 +9,7 @@
 ## 🛠️ Tools & Technologies
 
 **Frontend:**  
-HTML · CSS · JavaScript · TypeScript · React.js · Redux Toolkit · Zustand · React Native · Expo · Capacitor · Tailwind CSS · Bootstrap · Material UI · Shadcn · Three.js · React Router
+HTML · CSS · JavaScript · TypeScript · React.js · Redux Toolkit · Zustand · React Native · Expo · Capacitor · Tailwind CSS · Bootstrap · Material UI · Shadcn · Three.js · GSAP
 
 **Backend:**  
 Supabase · Firebase · Node.js · Express.js · PHP · Python · Java · C · C++
